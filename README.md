@@ -14,3 +14,9 @@ https://shopery-one.vercel.app
 - 🛒 **Add to Cart** – Simple cart management (local state).
 - 📱 **Responsive Design** – Mobile-first with TailwindCSS.
 - 🎨 **Figma Inspired Design** – Clean UI similar to Ecobazar.
+  
+## 🛠️ Tech Stack
+- **React.js** (with React Router)
+- **TailwindCSS** (for styling)
+- **JavaScript (ES6+)**
+- **Vercel** (for deployment)
