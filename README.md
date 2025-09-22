@@ -1,12 +1,16 @@
-# React + Vite
+# 🛒 Shopery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern grocery shopping web app built with **React**, **TailwindCSS**, and **React Router**.  
+Shopery provides a clean, responsive, and user-friendly interface for browsing and purchasing fresh products online.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+https://shopery-one.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- 🥬 **Browse Products** – Vegetables, fruits, and meat categories.
+- 🔍 **Product Detail & Quick View** – View details without leaving the page.
+- 🛒 **Add to Cart** – Simple cart management (local state).
+- 📱 **Responsive Design** – Mobile-first with TailwindCSS.
+- 🎨 **Figma Inspired Design** – Clean UI similar to Ecobazar.
